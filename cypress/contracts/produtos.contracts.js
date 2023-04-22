@@ -11,4 +11,4 @@ const produtosSchema = Joi.object({
     })
 })
 
-export default produtosSchema;  
+export default produtosSchema;
